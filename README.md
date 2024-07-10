@@ -93,17 +93,9 @@
 
 <br />
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanvenly&show_icons=true&locale=en&layout=compact" alt="jovanvenly" />
-
-</details>
-
-<details>
   <summary>:zap: Most Languange in GitHub</summary>
-<!-- Most Used Languages -->
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviamanda&show_icons=true&hide_border=true&theme=dracula" width="37%" alt="Livia's Top Languages">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanvenly&show_icons=true&hide_border=true&theme=dracula" width="37%" alt="jovanvenly Top Languanges" />
   </div>
 </details>
 
