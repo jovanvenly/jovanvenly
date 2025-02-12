@@ -101,9 +101,7 @@
 
 <br> <!-- Menambahkan spasi vertikal di antara gambar -->
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovanvenly&" alt="jovanvenly" />
-</p>
+
 
 <!--
 **jovanvenly/jovanvenly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
